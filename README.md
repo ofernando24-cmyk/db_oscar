@@ -28,3 +28,11 @@ Proyecto práctico de capacitación Databricks.
 - Separación entre datos, código, SQL, documentación y entregables.
 - Enfoque educativo en Databricks Free Edition.
 - Explicación de escalamiento a Azure Databricks empresarial.
+
+## 1. Tu nombre.
+Oscar Peñafiel
+## 2. Qué esperas aprender de Databricks.
+Integrar ML flow en los procesos de ML
+## 3. 5 preguntas de negocio para Lumi.
+## 4. 5 preguntas operativas para Bagazo.
+
